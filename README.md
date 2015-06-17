@@ -7,7 +7,6 @@ You can see these pages live here:
 
  * [Tile Grid](http://columbia.edu/~cme2126/datavisuals/bigdata_tilegrid.html)
  * [Parallel Coordinates](http://columbia.edu/~cme2126/datavisuals/bigdata_parallelcoordinates.html)
-
 * [D3.js Map Proof of
   Concept](http://columbia.edu/~cme2126/datavisuals/d3poc/app.html) w/ Handlebars and Require.js
  
